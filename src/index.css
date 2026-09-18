@@ -1,8 +1,14 @@
 @import "tailwindcss";
 
+@layer base {
+  html, body {
+    font-family: 'SUIT', sans-serif;
+  }
+}
+
 @layer utilities {
   .font-serif-en {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Instrument Serif', serif;
   }
 }
 
@@ -20,4 +26,3 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #999999;
 }
-
