@@ -1,0 +1,6 @@
+{
+  "name": "RENEW:UP - 리뉴업성형외과의원",
+  "description": "리뉴업성형외과의원 공식 웹사이트 - 얼굴의 시간을 되돌리는 프리미엄 성형외과",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
